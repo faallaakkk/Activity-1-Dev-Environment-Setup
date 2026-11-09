@@ -1,0 +1,10 @@
+**Activity 1 – Dev Environment Setup**
+
+1. Visual Studio Code was installed and configured for C/C++ programming.
+2. Microsoft C/C++ Extension Pack was installed successfully.
+3. MinGW-w64 GCC compiler was installed using MSYS2.
+4. GCC installation was verified using the `gcc --version` command.
+5. A C program named `hello.c` was created in VS Code.
+6. The program was compiled using `gcc hello.c -o hello`.
+7. The executable was run successfully and displayed "Hello, World!".
+8. The development environment is ready for C/C++ programming.
